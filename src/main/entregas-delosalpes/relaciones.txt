@@ -1,0 +1,26 @@
+Relación de dependencia: El contexto de Gestión de Pedidos puede depender de los contextos de Gestión de Clientes y Gestión de Inventarios para obtener información relevante sobre los clientes y los productos disponibles.
+
+Relación de asociación: El contexto de Gestión de Ordenes puede estar asociado con el contexto de Gestión de Envíos, ya que ambos pueden compartir información relevante sobre el envío y el seguimiento de la orden.
+
+Relación de integración: Los contextos de Gestión de Envíos y Gestión de Transporte pueden estar integrados para garantizar una entrega eficiente y de calidad a los clientes.
+
+Relación de composición: El contexto de Gestión de Entregas puede estar compuesto por los contextos de Gestión de Envíos y Gestión de Transporte, que juntos proporcionan una solución completa para la entrega de productos a los clientes.
+
+
+Gestión de Clientes y Gestión de Órdenes: Hay una relación de dependencia entre estos dos contextos acotados, ya que la información de los clientes es necesaria para la generación de órdenes.
+
+Gestión de Órdenes y Gestión de Inventarios: Hay una relación de dependencia entre estos dos contextos acotados, ya que la información sobre la disponibilidad de productos es necesaria para la generación de órdenes.
+
+Gestión de Inventarios y Gestión de Transporte: Hay una relación de dependencia entre estos dos contextos acotados, ya que la información sobre la disponibilidad de productos es necesaria para la generación de envíos.
+
+Gestión de Transporte y Gestión de Envíos: Hay una relación de dependencia entre estos dos contextos acotados, ya que la información sobre envíos es necesaria para el monitoreo y seguimiento de envíos.
+
+Gestión de Envíos y Entregas: Hay una relación
+
+Relación de dependencia: El contexto de Gestión de Pedidos puede depender de los contextos de Gestión de Clientes y Gestión de Inventarios para obtener información relevante sobre los clientes y los productos disponibles.
+
+Relación de asociación: El contexto de Gestión de Ordenes puede estar asociado con el contexto de Gestión de Envíos, ya que ambos pueden compartir información relevante sobre el envío y el seguimiento de la orden.
+
+Relación de integración: Los contextos de Gestión de Envíos y Gestión de Transporte pueden estar integrados para garantizar una entrega eficiente y de calidad a los clientes.
+
+Relación de composición: El contexto de Gestión de Entregas puede estar compuesto por los contextos de Gestión de Envíos y Gestión de Transporte, que juntos proporcionan una solución completa para la entrega de productos a los clientes.
